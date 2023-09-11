@@ -1,0 +1,16 @@
+.footer{
+    text-align: center;
+    color:white;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+.Login{
+    text-align: center;
+    width: 90%;
+    font-weight: bolder;
+    color: black;
+    cursor: pointer;
+}
+.Login:hover{
+    color: blue;
+}
